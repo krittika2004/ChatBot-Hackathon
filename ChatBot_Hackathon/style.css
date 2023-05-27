@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: azure;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #imageInput {
+    display: block;
+    margin: 20px auto;
+  }
+  
+  #scanButton {
+    display: block;
+    margin: 10px auto;
+  }
+  
+  #resultContainer {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
